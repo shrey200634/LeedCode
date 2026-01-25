@@ -1,4 +1,4 @@
-package Medium;
+package Medium.LL;
 
 public class oddEvenList {
     public class ListNode {

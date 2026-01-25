@@ -1,4 +1,4 @@
-package Medium;
+package Medium.LL;
 
 import java.lang.classfile.components.ClassPrinter.ListNode;
 
