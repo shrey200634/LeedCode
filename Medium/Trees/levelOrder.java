@@ -32,7 +32,7 @@ public class levelOrder {
     queue.offer(root);
 
     while (!queue.isEmpty()){
-        int levelSize=queue.size();
+        int levelSize=queue.size();   // u can try it yoursef on pen and paper 
         List <Integer> currentLevel=new ArrayList<>();
 
         for(int i=0;i<levelSize;i++){
