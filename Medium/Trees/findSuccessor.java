@@ -1,4 +1,4 @@
-package Medium;
+package Medium.Trees;
 
 import java.util.LinkedList;
 import java.util.Queue;
