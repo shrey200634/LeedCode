@@ -1,4 +1,4 @@
-package Medium.Trees;
+package Medium.Trees.DFS;
 
 public class connect {
     class Node {

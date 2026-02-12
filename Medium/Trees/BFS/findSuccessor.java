@@ -1,4 +1,4 @@
-package Medium.Trees;
+package Medium.Trees.BFS;
 
 import java.util.LinkedList;
 import java.util.Queue;

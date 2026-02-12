@@ -1,4 +1,4 @@
-package Medium.Trees;
+package Medium.Trees.BFS;
 
 public class SymNumbers {
      public class TreeNode {

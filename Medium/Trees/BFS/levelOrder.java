@@ -1,4 +1,4 @@
-package Medium.Trees;
+package Medium.Trees.BFS;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -30,7 +30,7 @@ public class levelOrder {
     }
     Queue<TreeNode> queue = new LinkedList<>(); // linklist because queue impliment the ll 
     queue.offer(root);
-
+ 
     while (!queue.isEmpty()){
         int levelSize=queue.size();   // u can try it yoursef on pen and paper 
         List <Integer> currentLevel=new ArrayList<>();
