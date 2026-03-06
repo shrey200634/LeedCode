@@ -13,7 +13,6 @@ public class FindLeftBottomNode {
           this.left = left;
           this.right = right;
       }
-    
 }
  int maxdepth =-1;
         int bottomLeftValue =0;
