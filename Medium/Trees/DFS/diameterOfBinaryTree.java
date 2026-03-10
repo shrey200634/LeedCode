@@ -27,6 +27,7 @@ public class diameterOfBinaryTree {
         int rightheight =height(node.right );
         int dia =leftheight +rightheight ;
         diameter= Math.max(diameter,dia);
+        
 
         return Math.max(leftheight ,rightheight )+1;
 
