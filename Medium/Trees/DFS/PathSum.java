@@ -1,4 +1,4 @@
-package Medium.Trees.DFS;
+package DFS;
 
 public class PathSum {
     public class TreeNode {
@@ -31,3 +31,14 @@ public class PathSum {
     }
     
 }
+
+
+
+
+
+
+
+
+
+
+

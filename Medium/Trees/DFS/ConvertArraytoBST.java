@@ -1,4 +1,4 @@
-package Medium.Trees.DFS;
+package DFS;
 
 public class ConvertArraytoBST {
     public class TreeNode {
