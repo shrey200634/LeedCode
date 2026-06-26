@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/shrey200634/LeedCode/tree/master/0164-maximum-gap) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/shrey200634/LeedCode/tree/master/0164-maximum-gap) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
