@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/shrey200634/LeedCode/tree/master/0146-lru-cache) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
 ## String
 |  |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shrey200634/LeedCode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shrey200634/LeedCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shrey200634/LeedCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
