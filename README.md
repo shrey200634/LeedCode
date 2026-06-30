@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/shrey200634/LeedCode/tree/master/0164-maximum-gap) |
+| [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
 ## Hash Table
@@ -78,4 +79,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
