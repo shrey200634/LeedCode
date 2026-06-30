@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/shrey200634/LeedCode/tree/master/0164-maximum-gap) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
+| [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/shrey200634/LeedCode/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shrey200634/LeedCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
