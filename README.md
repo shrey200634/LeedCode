@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shrey200634/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0164-maximum-gap](https://github.com/shrey200634/LeedCode/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/shrey200634/LeedCode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0692-top-k-frequent-words](https://github.com/shrey200634/LeedCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/shrey200634/LeedCode/tree/master/0695-max-area-of-island) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shrey200634/LeedCode/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/shrey200634/LeedCode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
